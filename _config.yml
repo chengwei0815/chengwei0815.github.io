@@ -1,16 +1,16 @@
 title:              Wei Cheng
 email:              chengwei0815@gmail.com
-description:        A Blog format portfolio
+description:        Data Analyst / Data Scientist
 author:             Wei Cheng
 baseurl:            ""
-url:                "https://chengewi0815.github.io"
+url:                "https://chengwei0815.github.io"
 
 # Social Profiles
 twitter_username:   
-github_username:    
+github_username:   chengwei0815
 facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:   chengwei611
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -23,3 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+kramdown:
+input: GFM
+syntax_highlighter: rouge

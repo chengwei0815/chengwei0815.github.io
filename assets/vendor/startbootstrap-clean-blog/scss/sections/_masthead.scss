@@ -31,7 +31,8 @@ header.masthead {
 
     .page-heading,
     .site-heading {
-        text-align: center;
+        text-align: left;
+        filter: drop-shadow(5px 5px 3px #000000);
 
         h1 {
             font-size: 50px;
