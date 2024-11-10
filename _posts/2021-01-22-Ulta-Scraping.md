@@ -6,7 +6,6 @@ date: 2023-01-22
 background: '/img/posts/Ulta/perfume.jpg'
 ---
 
-To view my Jupyter Notebook file on my GitHub for this project, click [here](https://github.com/BritFred09/Ulta/blob/main/Ulta.ipynb). 
 
 ## Overview
 For some reason, I've developed a proclivity for collecting perfumes over the past few months. I've enjoyed learning about their scent profiles, the designers' techniques, the various types of notes that exist (like hay?? pumpkin??). In an effort to practice my web scraping skills I decided to embark on a personal
