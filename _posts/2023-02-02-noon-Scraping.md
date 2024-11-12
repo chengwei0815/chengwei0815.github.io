@@ -2,7 +2,7 @@
 layout: post
 title: "Noon Jewellery Web Scraping"
 subtitle: "product and price analysis using python"
-date: 2023-01-22
+date: 2023-02-02
 background: '/img/noon.png'
 ---
 
